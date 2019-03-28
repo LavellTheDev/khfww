@@ -210,7 +210,7 @@ footer {
 @media (min-width: 1025px) and (max-width: 1280px) {
   .text1{
     color: #fff;
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
   .khfInfo{
     top: 65%;
@@ -218,8 +218,9 @@ footer {
     width: 43.5%;
   }
   p{
-    font: 0.9rem;
+    font-size: 1rem;
   }
+
 }
 
 
